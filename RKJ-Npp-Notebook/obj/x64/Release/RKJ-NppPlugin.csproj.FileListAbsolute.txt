@@ -1,0 +1,8 @@
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\bin\Release-x64\RKJ-NppPlugin.dll
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\bin\Release-x64\RKJ-NppPlugin.pdb
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\Kbg.NppPluginNET.frmMyDlg.resources
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\RKJ_NppPlugin.Properties.Resources.resources
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\RKJ-NppPlugin.csproj.GenerateResource.cache
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\RKJ-NppPlugin.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\RKJ-NppPlugin.dll
+D:\WORKSPACE\VS2019-e\RKJ-NppPlugin\RKJ-NppPlugin\obj\x64\Release\RKJ-NppPlugin.pdb
